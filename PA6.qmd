@@ -16,11 +16,7 @@ Quarto enables you to weave together content and executable code into a finished
 When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
 
 ```{r}
-<<<<<<< HEAD
 11*11
-=======
-13*13
->>>>>>> d631fff6db7eb54a0b85c2c4fe1dc6e620a12e25
 ```
 
 You can add options to executable code like this
