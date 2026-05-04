@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: "Teagan, Sophie, Lena, Randy"
 format: 
   html:
     embed-resources: true
