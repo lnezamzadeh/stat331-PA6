@@ -1,5 +1,6 @@
 ---
 title: "PA6"
+author: Lena Nezamzadeh, Randy Tran, Sophia Kumar, Teagan Castaneda
 format: 
   html:
     embed-resources: true
